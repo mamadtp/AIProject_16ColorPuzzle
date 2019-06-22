@@ -58,7 +58,7 @@ our heuristic in this solution is Manhattan length ,we computing in each step  M
 
 ## Authors
 
-* **Mohamad Taghipour** - *Initial work* - [MamadTp](https://github.com/mamadtp)
+* **Mohamad Taghipour** - *-------->* - [MamadTp](https://github.com/mamadtp)
 
 
 
