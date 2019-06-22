@@ -51,20 +51,16 @@ our heuristic in this solution is Manhattan length ,we computing in each step  M
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [IntelliJ IDEA](https://www.jetbrains.com/) - The IDE used
+* [JAVA](https://www.java.com/download//) - Dependency 
+
 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Mohamad Taghipour** - *Initial work* - [MamadTp](https://github.com/mamadtp)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
